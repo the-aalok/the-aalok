@@ -1,11 +1,10 @@
 
 ———————————
-name: Aalok Chaudhary
-pronouns: he/him
-grade: 11
-hobbies: coding, writing, music, books
-interests: 
-
-mail: aalokchaudhary0218@gmail.com
-facebook: 
-instagram: 
+name: Aalok Chaudhary <br>
+pronouns: he/him<br>
+grade: 11<br>
+hobbies: coding, writing, music, books <br>
+interests: <br>
+mail: aalokchaudhary0218@gmail.com <br>
+facebook: <br>
+instagram: <br>
