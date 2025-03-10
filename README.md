@@ -1,5 +1,3 @@
-
-———————————
 name: Aalok Chaudhary <br>
 pronouns: he/him<br>
 grade: 11<br>
