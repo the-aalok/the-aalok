@@ -1,4 +1,4 @@
-name: Aalok Chaudhary <br>
+name: aalok ahaudhary <br>
 pronouns: he/him<br>
 grade: 11<br>
 hobbies: coding, writing, music, books <br>
