@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hetauda School of Management</title>
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            background-color: White;
+            color: black;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        header {
+            background-color: #0056b3;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 20px;
+        }
+
+        header img {
+            width: 200px;
+            height: auto;
+            margin-right: 15px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        header p {
+            margin: 5px 0 0;
+            font-size: 14px;
+        }
+
+        nav {
+            background-color: #003366;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+
+        nav a:hover {
+            background-color: #0056b3;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            display: inline-block;
+        }
+        nav a:visited
+	{
+		color:white;
+	}
+
+        section {
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #0056b3;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: blue;
+        }
+
+        footer {
+            background-color: #0056b3;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <img src="logo3.png" alt="HSM Logo">
+        <div>
+            <h1>Hetauda School of Management</h1>
+            <p>Transforming Challenges into Opportunities</p>
+        </div>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#programs">Programs</a>
+        <a href="#facilities">Facilities</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Established in 1995, Hetauda School of Management and Social Sciences (HSMSS) is a leading educational
+            institution in Hetauda, Nepal.</p>
+    </section>
+
+    <section id="programs">
+        <h2>Programs</h2>
+        <h3>10+2 Level</h3>
+        <ul>
+            <li>Management</li>
+            <li>Science</li>
+            <li>Hotel Management</li>
+            <li>Beautician</li>
+            <li>Pre-Medical</li>
+        </ul>
+        <h3>Bachelor's Degrees</h3>
+        <ul>
+            <li>Bachelor in Information Management (BIM)</li>
+            <li>Bachelor in Computer Application (BCA)</li>
+            <li>Bachelor in Business Studies (BBS)</li>
+        </ul>
+        <h3>Master's Degree</h3>
+        <ul>
+            <li>Master in Business Studies (MBS)</li>
+        </ul>
+    </section>
+    <section id="facilities">
+        <h2>Facilities</h2>
+        <ul>
+            <li>Innovation Lab</li>
+            <li>Modern Library with Digital Resources</li>
+            <li>Sports Facilities</li>
+            <li>Computer and Science Labs</li>
+            <li>Cafeteria</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address: Parijat Marg 4, Hetauda, Nepal</p>
+        <p>Phone: 057-524701</p>
+        <p> Email: <a href="mailto:example@example.com"> info@hsm.edu.np</a></p>
+        <p>Website: <a href="https://hsm.edu.np/">https://hsm.edu.np/</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Hetauda School of Management. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
