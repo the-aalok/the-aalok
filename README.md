@@ -1,6 +1,6 @@
    <span style="color:#7ee787;">name:</span> <span style="color:#a5d6ff;">Aalok Chaudhary</span> <br>
     <span style="color:#7ee787;">pronouns:</span> <span style="color:#a5d6ff;">he/him </span> <br>
-    <span style="color:#7ee787;">grade:</span> <span style="color:#a5d6ff;"> 11 </span> <br>
+    <span style="color:#7ee787;">grade:</span> <span style="color:#a5d6ff;"> 12 </span> <br>
     <span style="color:#7ee787;">hobbies:</span> <span style="color:#a5d6ff;">coding, writing, music, books</span> <br>
     <span style="color:#7ee787;">interests:</span><span style="color:#a5d6ff;">mobile & web development, game dev, software engineering </span><br> 
     <span style="color:#7ee787;">learning:</span> <span style="color:#a5d6ff;"> C, JavaScript, PHP</span> <br>
