@@ -27,8 +27,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "Aalok Chaudhary"
-          git config --global user.email "YOUR_GITHUB_EMAIL"
+          git config --global user.name "the-aalok"
+          git config --global user.email "aalokchaudhary0218@gmail.com"
 
       - name: Make script executable
         run: chmod +x quote.sh
