@@ -11,13 +11,14 @@ quotes=(
 )
 
 day=$(date +%w)
-index=$((day % 7))
+quote="${quotes[$day]}"
 
-readme=$(cat README.md)
-new_readme=$(echo "$readme" | awk -v new_quote="${quotes[$index]}" '/quote:/ {$0="quote: "new_quote} 1')
+awk -v new_quote="$quote" '
+/^quote:/ {
+    print "quote: " new_quote
+    next
+}
+{ print }
+' README.md > README.tmp
 
-echo "$new_readme" > README.md
-
-git add README.md
-git commit -m "chore: update daily quote"
-git push origin main
+mv README.tmp README.md
