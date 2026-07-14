@@ -1,0 +1,42 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    # Runs every day at 12:00 AM Nepal Time (UTC+5:45 = 18:15 UTC)
+    - cron: "15 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_quote:
+    runs-on: ubuntu-latest
+
+    env:
+      TIME_ZONE: Asia/Kathmandu
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set timezone
+        run: |
+          sudo timedatectl set-timezone $TIME_ZONE
+          date
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "the-aalok"
+          git config --global user.email "aalokchaudhary0218@gmail.com"
+
+      - name: Make script executable
+        run: chmod +x quote.sh
+
+      - name: Update quote
+        run: ./quote.sh
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update daily quote"
+
+      - name: Push changes
+        run: git push
