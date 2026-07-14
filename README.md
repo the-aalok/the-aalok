@@ -9,7 +9,7 @@ grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: "Never change yourself to fit into someone else’s story — you are the author of your own life."
+quote: Never change yourself to fit into someone else’s story — you are the author of your own life.
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
