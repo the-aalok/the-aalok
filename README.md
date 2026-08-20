@@ -9,7 +9,7 @@ grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Success isn't about knowing every language—it's about never stopping learning.,
+quote: Focus on building skills today, and opportunities will find you tomorrow.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
