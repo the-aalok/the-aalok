@@ -9,7 +9,7 @@ grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Every bug you solve is another step toward mastering your craft.,
+quote: Your career is written by the code you consistently ship.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
