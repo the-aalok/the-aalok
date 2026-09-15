@@ -9,7 +9,7 @@ grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Your career is written by the code you consistently ship.,
+quote: Discipline writes the code that motivation never starts.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
