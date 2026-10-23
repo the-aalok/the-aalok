@@ -9,7 +9,7 @@ grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Focus on building skills today, and opportunities will find you tomorrow.,
+quote: Dream boldly, code relentlessly, and let your work speak for itself.
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
