@@ -5,7 +5,6 @@
 aalok@the-aalok
 ----------------
 pronouns: He/Him
-grade: 12
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
