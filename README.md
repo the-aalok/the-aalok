@@ -1,16 +1,18 @@
-## Hi there 👋
+<hr>
 
-<!--
-**the-aalok/the-aalok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+aalok@the-aalok
+----------------
+pronouns: He/Him
+hobbies: Coding, Writing, Music, Books
+interests: hackathons, development, science, open source
+learning: C, JavaScript, PHP
+quote: Your career is written by the code you consistently ship.,
+----------------
+contact:
+  email: aalokchaudhary0218@gmail.com
+  facebook: Aalok Chaudhary
+  instagram: @aalok_chaudhary22
+```
+<hr>
