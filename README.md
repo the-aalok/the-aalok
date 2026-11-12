@@ -8,7 +8,7 @@ pronouns: He/Him
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Discipline writes the code that motivation never starts.,
+quote: Success isn't about knowing every language—it's about never stopping learning.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
