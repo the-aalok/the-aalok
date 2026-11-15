@@ -8,7 +8,7 @@ pronouns: He/Him
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Great software is built one focused day at a time.,
+quote: Every bug you solve is another step toward mastering your craft.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
