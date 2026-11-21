@@ -8,7 +8,7 @@ pronouns: He/Him
 hobbies: Coding, Writing, Music, Books
 interests: hackathons, development, science, open source
 learning: C, JavaScript, PHP
-quote: Dream boldly, code relentlessly, and let your work speak for itself.
+quote: Great software is built one focused day at a time.,
 ----------------
 contact:
   email: aalokchaudhary0218@gmail.com
